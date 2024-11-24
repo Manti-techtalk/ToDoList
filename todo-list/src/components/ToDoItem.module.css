@@ -1,0 +1,14 @@
+.item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .button {
+    background-color: #ff4b5c;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
+  
